@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1_text0">Ноль</string>
+    <string name="level1_text1">Один</string>
+    <string name="level1_text2">Два</string>
+    <string name="level1_text3">Три</string>
+    <string name="level1_text4">Четыре</string>
+    <string name="level1_text5">Пять</string>
+    <string name="level1_text6">Шесть</string>
+    <string name="level1_text7">Семь</string>
+    <string name="level1_text8">Восемь</string>
+    <string name="level1_text9">Девять</string>
+
+    <string name="level2_text1">Один</string>
+    <string name="level2_text2">Два</string>
+    <string name="level2_text3">Три</string>
+    <string name="level2_text4">Четыре</string>
+    <string name="level2_text5">Пять</string>
+    <string name="level2_text6">Шесть</string>
+    <string name="level2_text7">Семь</string>
+    <string name="level2_text8">Восемь</string>
+    <string name="level2_text9">Девять</string>
+    <string name="level2_text10">Десять</string>
+
+    <string name="level3_text1">Жаба</string>
+    <string name="level3_text2">Хомяк</string>
+    <string name="level3_text3">Белка</string>
+    <string name="level3_text4">Попугай</string>
+    <string name="level3_text5">Ёжик</string>
+    <string name="level3_text6">Заяц</string>
+    <string name="level3_text7">Курица</string>
+    <string name="level3_text8">Бобёр</string>
+    <string name="level3_text9">Коала</string>
+    <string name="level3_text10">Кот</string>
+    <string name="level3_text11">Энот</string>
+    <string name="level3_text12">Собака</string>
+    <string name="level3_text13">Лиса</string>
+    <string name="level3_text14">Волк</string>
+    <string name="level3_text15">Баран</string>
+    <string name="level3_text16">Обезьяна</string>
+    <string name="level3_text17">Тигр</string>
+    <string name="level3_text18">Корова</string>
+    <string name="level3_text19">Бегемот</string>
+    <string name="level3_text20">Медведь</string>
+    <string name="level3_text21">Слон</string>
+
+    <string name="level4_text1">Банан</string>
+    <string name="level4_text2">Игрушка</string>
+    <string name="level4_text3">Вишня</string>
+    <string name="level4_text4">Шлем</string>
+    <string name="level4_text5">Кокос</string>
+    <string name="level4_text6">Коробка</string>
+    <string name="level4_text7">Яйца</string>
+    <string name="level4_text8">Колесо</string>
+    <string name="level4_text9">Лук</string>
+    <string name="level4_text10">Мяч</string>
+    <string name="level4_text11">Картофель</string>
+    <string name="level4_text12">Ложка</string>
+    <string name="level4_text13">Тыква</string>
+    <string name="level4_text14">Ботинки</string>
+    <string name="level4_text15">Клубника</string>
+    <string name="level4_text16">Шапка</string>
+    <string name="level4_text17">Орех</string>
+    <string name="level4_text18">Мячик</string>
+    <string name="level4_text19">Арбуз</string>
+    <string name="level4_text20">Нитки</string>
+
+    <string name="level5_text1">Черепаха</string>
+    <string name="level5_text2">Велосипед</string>
+    <string name="level5_text3">Тигр</string>
+    <string name="level5_text4">Скутер</string>
+    <string name="level5_text5">Грузовик</string>
+    <string name="level5_text6">Мотоцикл</string>
+    <string name="level5_text7">Машина</string>
+    <string name="level5_text8">Вертолет</string>
+    <string name="level5_text9">Самолет</string>
+    <string name="level5_text10">Ракета</string>
+
+    <string name="level6_text1">Перо</string>
+    <string name="level6_text2">Гантели</string>
+    <string name="level6_text3">Шкаф</string>
+    <string name="level6_text4">Бегемот</string>
+    <string name="level6_text5">Грузовик</string>
+    <string name="level6_text6">Слон</string>
+    <string name="level6_text7">Танк</string>
+    <string name="level6_text8">Корабль</string>
+    <string name="level6_text9">Ракета</string>
+    <string name="level6_text10">Метеор</string>
+
+
+
+</resources>
